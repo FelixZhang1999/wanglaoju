@@ -1,0 +1,69 @@
+{
+  "Wanglaoju:PlaceholderRelic": {
+    "NAME": "Placeholder Energy Relic",
+    "FLAVOR": "The snake is a friend.",
+    "DESCRIPTIONS": [
+      "Gain #b1 [E] ."
+    ]
+  },
+  "Wanglaoju:PlaceholderRelic2": {
+    "NAME": "Placeholder Relic 2",
+    "FLAVOR": "You feel stronger.",
+    "DESCRIPTIONS": [
+      "At the start of each combat, gain #b1 #yStrength."
+    ]
+  },
+  "Wanglaoju:免免": {
+    "NAME": "免免",
+    "FLAVOR": "王老菊之妻。",
+    "DESCRIPTIONS": [
+      "增加一点能量。"
+    ]
+  },
+  "Wanglaoju:霸者契约": {
+    "NAME": "霸者契约",
+    "FLAVOR": "只有真正的强者才敢戴着这个闯荡时间。",
+    "DESCRIPTIONS": [
+      "受到双倍伤害。王老菊说这是为新手降低难度准备的。"
+    ]
+  },
+  "Wanglaoju:太阳骑士": {
+    "NAME": "太阳骑士",
+    "FLAVOR": "先有老菊后有天，太阳骑士日神仙。",
+    "DESCRIPTIONS": [
+      "正义的太阳骑士，回合开始时，使随机敌人中毒2层。"
+    ]
+  },
+  "Wanglaoju:少林六合棍": {
+    "NAME": "少林六合棍",
+    "FLAVOR": "响当当学到的第一门棍法。",
+    "DESCRIPTIONS": [
+      "你用少林六合棍毒打了一遍敌人，每个敌人多获得10金币奖励。"
+    ]
+  },
+  "Wanglaoju:大块余烬": {
+    "NAME": "大块余烬",
+    "FLAVOR": "恭喜你终于拿到了，we are the champions！",
+    "DESCRIPTIONS": [
+      "隐藏在大书库一个很难跳上去的架子上，捡起时，升级你所有的攻击牌。"
+    ]
+  },
+  "Wanglaoju:DefaultClickableRelic": {
+    "NAME": "Right-Clicky Relic",
+    "FLAVOR": "The more you right-click it, the more orbs you've evoked in your lifetime.",
+    "DESCRIPTIONS": [
+      "[#2aecd7]Usable [#2aecd7]once [#2aecd7]per [#2aecd7]turn.[] NL #yEvoke your rightmost Orb.",
+      "YOU ARE MINE!"
+    ]
+  },
+  "Wanglaoju:BottledPlaceholderRelic": {
+    "NAME": "Bottled Placeholder",
+    "FLAVOR": "What is this?",
+    "DESCRIPTIONS": [
+      "Choose a card. Whenever you take play any card, draw the chosen card.",
+      "Whenever you play a card, draw ",
+      ".",
+      "Select a card to bottle for "
+    ]
+  }
+}
